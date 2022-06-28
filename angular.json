@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-quiz"
+  "defaultProject": "angular-quiz",
+  "cli": {
+    "analytics": "9c4dca74-709e-452b-8494-4690dc1311e7"
+  }
 }
